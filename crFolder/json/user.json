@@ -1,0 +1,25 @@
+[{
+    "taskName": "Walk dog",
+    "describe": "Go outside, walk with dog, watch dog pee, go inside",
+    "pic": "https://cdn.pixabay.com/photo/2021/10/01/18/53/corgi-6673343_1280.jpg",
+    "level": "Priority Level:",
+    "like": 1
+},{
+    "taskName": "Finish Code Review",
+    "describe": "Sit, code, screw up, correct, repeat",
+    "pic": "https://cdn.pixabay.com/photo/2021/10/01/18/53/corgi-6673343_1280.jpg",
+    "level": "Priority Level:",
+    "like": 0
+},{
+    "taskName": "Water plants",
+    "describe": "Stand, check soil moisture, water if necessary",
+    "pic": "https://cdn.pixabay.com/photo/2021/10/01/18/53/corgi-6673343_1280.jpg",
+    "level": "Priority Level:",
+    "like": 2
+},{
+    "taskName": "Finish Law Paper",
+    "describe": "Read, write, read, write, read write, cry, give up, submit",
+    "pic": "https://cdn.pixabay.com/photo/2021/10/01/18/53/corgi-6673343_1280.jpg",
+    "level": "Priority Level:",
+    "like": 2
+}]

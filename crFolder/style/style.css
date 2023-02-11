@@ -47,9 +47,14 @@ body hr{
     color: black;
 }
 
+#bigbig{
+    background-color:green !important;
+}
+
+
 /*MAIN BODY CONTENT*/
 
-.mainContent{
+/*.mainContent{
     margin: 0 10px;
 
 }
@@ -62,11 +67,11 @@ body hr{
 .firstSegment h2{
     margin: 2px 0px 2px 10px;
     padding: 2px 2px;
-    /* border: 1px solid red ; */
+    /* border: 1px solid red ; 
 }
 .firstSegment .item{
     margin:5px 0px 5px 20px;
-    /* border: 1px solid red; */
+    /* border: 1px solid red; 
 }
 .secondSegment  {
     border:1px solid black;
@@ -79,7 +84,7 @@ body hr{
 }
 .secondSegment .item{
     margin:5px 0px 5px 20px;
-    /* border: 1px solid red; */
+    /* border: 1px solid red; 
 }
 .thirdSegment {
     border:1px solid black;
@@ -89,11 +94,11 @@ body hr{
 .thirdSegment h2{
     margin: 2px 0px 2px 10px;
     padding: 2px 2px;
-    /* border: 1px solid red ; */
+    /* border: 1px solid red ; 
 }
 .thirdSegment .item{
     margin:5px 0px 5px 20px;
-    /* border: 1px solid red; */
+    /* border: 1px solid red; 
 }
 .item a{
     text-decoration: none;
@@ -103,6 +108,7 @@ body hr{
 .item p{
     margin:1px 0px 1px 25px;
 }
+*/
 #copyRight {
     display:flex;
     margin: 0 10px;
